@@ -1,52 +1,58 @@
-
 ![Banner para YouTube Tecnología Moderno Azul](https://github.com/user-attachments/assets/efc55e62-c042-4a7c-b8f6-9b848c3214fe)
 
 # 👋 Hello! I'm Esteban Martínez
 
-Welcome to my GitHub profile!
-
-I'm a **Multiplatform Application Developer** passionate about technology, software development, and everything related to computing. I'm constantly learning about different areas of computer science such as **databases**, **programming**, **Big Data**, and **Artificial Intelligence**.
-
-While I focus primarily on **back-end development**, I strongly believe that having skills in both **back-end** and **front-end** makes a developer more versatile and effective.
+**Backend Developer** | **Java & Spring Boot** | **Full Stack (Angular + Spring)**
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 Multiplatform Application Developer – currently studying and building real-world projects  
+I'm a **Multiplatform Application Developer (DAM)** graduated in 2025, specialized in backend development with Java and Spring Boot. I've built complete applications in real work environments during my internships, working with agile methodologies (Scrum), Git, and Docker.
 
-🌱 Learning:  
-`Java` · `Kotlin` · `Jetpack Compose` · `HTML` · `CSS` · `SQL`
+I focus on writing **clean, secure, and testable code**. I'm passionate about APIs, databases, and software architecture.
 
-📚 Exploring and improving my skills in:  
-`Spring Boot` · `Angular` · `Kotlin` · `Jetpack Compose` · `Flutter`
-
-🚀 Working on personal projects involving:  
-Back-end systems, Android apps, and more
-
-💼 Looking for opportunities as a:  
-**Mobile App Developer** or **Multiplatform Developer**
-
-📫 You can reach me at: **2001estebanmartinez@gmail.com**
+🔹 **Currently looking for opportunities as:** Backend Developer (Java/Spring) or Full Stack Developer  
+🔹 **Open to:** On-site (Castellón/Valencia) or remote work  
+🔹 **Email:** 2001estebanmartinez@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Back-End**  
-`Java` · `Spring Boot` · `Python`
+**Languages**  
+`Java` · `Kotlin` · `JavaScript` · `TypeScript`
 
-**Android Development**  
-`Kotlin` · `Jetpack Compose` · `Android Studio`
+**Backend**  
+`Spring Boot` · `JPA/Hibernate` · `JAX-RS` · `JWT` · `JUnit` · `Mockito`
 
-**Web Development**  
-`JavaScript` · `HTML5` · `CSS` · `Angular`
+**Frontend**  
+`Angular` · `HTML5` · `CSS3` · `Flutter`
 
 **Databases**  
-`SQL` · `MySQL` · `Firebase` · `MongoDB` · `PostgreSQL`
+`MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `Firebase`
 
-**Version Control**  
-`Git` · `GitHub`
+**Tools & Practices**  
+`Git` · `Docker` · `Postman` · `Agile (Scrum)` · `Swagger/OpenAPI`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-------------|
+| [Movies API](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and documentation. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
+| [Proyecto Palomero](https://github.com/EstebanMM13/ProyectoPalomero) | Android messaging and microblogging app (Final Degree Project). | Firebase Auth, Firestore, MVVM, Repository Pattern, WeatherAPI |
+
+> 🔗 Click on the project titles to see the full repository.
+
+---
+
+## 📈 GitHub Stats
+
+![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanMM13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMM13&layout=compact&theme=radical)
 
 ---
 
