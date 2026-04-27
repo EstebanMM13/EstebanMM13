@@ -1,4 +1,4 @@
-![Banner para YouTube Tecnología Moderno Azul](https://github.com/user-attachments/assets/efc55e62-c042-4a7c-b8f6-9b848c3214fe)
+<img width="2560" height="1440" alt="Banner para YouTube Tecnología Moderno Azul" src="https://github.com/user-attachments/assets/dbd2403a-88d3-46f3-be7f-beeedbd0de0f" />
 
 # 👋 Hello! I'm Esteban Martínez
 
