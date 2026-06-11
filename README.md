@@ -1,8 +1,7 @@
 <img width="2560" height="1440" alt="Banner para YouTube Tecnología Moderno Azul" src="https://github.com/user-attachments/assets/dbd2403a-88d3-46f3-be7f-beeedbd0de0f" />
 
 # 👋 Hello! I'm Esteban Martínez
-
-**Backend Developer** | **Java & Spring Boot** | **Full Stack (Angular + Spring)**
+**Backend Developer** | **Java & Spring Boot** | **Microservices & Spring Cloud**
 
 ---
 
@@ -10,7 +9,7 @@
 
 I'm a **Multiplatform Application Developer (DAM)** graduated in 2025, specialized in backend development with Java and Spring Boot. I've built complete applications in real work environments during my internships, working with agile methodologies (Scrum), Git, and Docker.
 
-I focus on writing **clean, secure, and testable code**. I'm passionate about APIs, databases, and software architecture.
+I focus on writing **clean, secure, and scalable code**. I'm passionate about APIs, microservices architecture, and backend engineering.
 
 🔹 **Currently looking for opportunities as:** Backend Developer (Java/Spring) or Full Stack Developer  
 🔹 **Open to:** On-site (Castellón/Valencia) or remote work  
@@ -24,7 +23,10 @@ I focus on writing **clean, secure, and testable code**. I'm passionate about AP
 `Java` · `Kotlin` · `JavaScript` · `TypeScript`
 
 **Backend**  
-`Spring Boot` · `JPA/Hibernate` · `JAX-RS` · `JWT` · `JUnit` · `Mockito`
+`Spring Boot` · `Spring Cloud` · `Spring Security` · `JPA/Hibernate` · `JAX-RS` · `JWT` · `JUnit` · `Mockito`
+
+**Microservices**  
+`Eureka` · `Spring Cloud Gateway` · `Spring Cloud Config` · `OpenFeign` · `Resilience4j`
 
 **Frontend**  
 `Angular` · `HTML5` · `CSS3` · `Flutter`
@@ -33,7 +35,7 @@ I focus on writing **clean, secure, and testable code**. I'm passionate about AP
 `MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `Firebase`
 
 **Tools & Practices**  
-`Git` · `Docker` · `Postman` · `Agile (Scrum)` · `Swagger/OpenAPI`
+`Git` · `Docker` · `Docker Compose` · `GitHub Actions` · `Postman` · `Agile (Scrum)` · `Swagger/OpenAPI`
 
 ---
 
@@ -41,7 +43,8 @@ I focus on writing **clean, secure, and testable code**. I'm passionate about AP
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| [Movies API](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and documentation. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
+| [Movies API — Microservices](https://github.com/EstebanMM13/PROYECTO_MOVIES) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, and CI/CD pipeline. | Java 21, Spring Boot 4, Spring Cloud, Docker, GitHub Actions, MySQL |
+| [Movies API — Monolith](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and full test coverage. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
 | [Proyecto Palomero](https://github.com/EstebanMM13/ProyectoPalomero) | Android messaging and microblogging app (Final Degree Project). | Firebase Auth, Firestore, MVVM, Repository Pattern, WeatherAPI |
 
 > 🔗 Click on the project titles to see the full repository.
@@ -51,7 +54,6 @@ I focus on writing **clean, secure, and testable code**. I'm passionate about AP
 ## 📈 GitHub Stats
 
 ![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanMM13&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMM13&layout=compact&theme=radical)
 
 ---
