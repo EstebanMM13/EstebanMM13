@@ -43,7 +43,7 @@ I focus on writing **clean, secure, and scalable code**. I'm passionate about AP
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| [Movies API — Microservices](https://github.com/EstebanMM13/PROYECTO_MOVIES) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, and CI/CD pipeline. | Java 21, Spring Boot 4, Spring Cloud, Docker, GitHub Actions, MySQL |
+| [CineAPI - Microservicies Spring Cloud](https://github.com/EstebanMM13/PROYECTO_MOVIES) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, and CI/CD pipeline. | Java 21, Spring Boot 4, Spring Cloud, Docker, GitHub Actions, MySQL |
 | [Movies API — Monolith](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and full test coverage. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
 | [Proyecto Palomero](https://github.com/EstebanMM13/ProyectoPalomero) | Android messaging and microblogging app (Final Degree Project). | Firebase Auth, Firestore, MVVM, Repository Pattern, WeatherAPI |
 
