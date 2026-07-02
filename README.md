@@ -43,8 +43,8 @@ I focus on writing **clean, secure, and scalable code**. I'm passionate about AP
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| [CineAPI — Microservices Spring Cloud](https://github.com/EstebanMM13/CineAPI) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, Redis caching, Prometheus + Grafana observability, and CI/CD pipeline. | Java 17, Spring Boot, Spring Cloud, Docker, GitHub Actions, MySQL, Redis |
-| [CineAPI — Frontend](https://github.com/EstebanMM13/CineAPI-Frontend) | Angular 22 client for CineAPI — movie catalogue with real-time search, genre filtering, voting system, reviews, and admin panel. | Angular 22, TypeScript, RxJS, Tailwind CSS |
+| [Cineo API — Microservices Spring Cloud](https://github.com/EstebanMM13/Cineo-api) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, Redis caching, Prometheus + Grafana observability, and CI/CD pipeline. | Java 17, Spring Boot, Spring Cloud, Docker, GitHub Actions, MySQL, Redis |
+| [Cineo Web — Frontend](https://github.com/EstebanMM13/Cineo-web) | Angular 22 client for CineAPI — movie catalogue with real-time search, genre filtering, voting system, reviews, and admin panel. | Angular 22, TypeScript, RxJS, Tailwind CSS |
 | [Movies API — Monolith](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and full test coverage. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
 | [Proyecto Palomero](https://github.com/EstebanMM13/ProyectoPalomero) | Android messaging and microblogging app (Final Degree Project). | Firebase Auth, Firestore, MVVM, Repository Pattern, WeatherAPI |
 
