@@ -11,30 +11,30 @@ I'm a **Multiplatform Application Developer (DAM)** graduated in 2025, specializ
 
 I focus on writing **clean, secure, and scalable code**. I'm passionate about APIs, microservices architecture, and backend engineering.
 
-🔹 **Currently looking for opportunities as:** Backend Developer (Java/Spring) or Full Stack Developer  
-🔹 **Open to:** On-site (Castellón/Valencia) or remote work  
+🔹 **Currently looking for opportunities as:** Backend Developer (Java/Spring) or Full Stack Developer
+🔹 **Open to:** On-site (Castellón/Valencia) or remote work
 🔹 **Email:** 2001estebanmartinez@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages**
 `Java` · `Kotlin` · `JavaScript` · `TypeScript`
 
-**Backend**  
+**Backend**
 `Spring Boot` · `Spring Cloud` · `Spring Security` · `JPA/Hibernate` · `JAX-RS` · `JWT` · `JUnit` · `Mockito`
 
-**Microservices**  
+**Microservices**
 `Eureka` · `Spring Cloud Gateway` · `Spring Cloud Config` · `OpenFeign` · `Resilience4j`
 
-**Frontend**  
+**Frontend**
 `Angular` · `HTML5` · `CSS3` · `Flutter`
 
-**Databases**  
+**Databases**
 `MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `Firebase`
 
-**Tools & Practices**  
+**Tools & Practices**
 `Git` · `Docker` · `Docker Compose` · `GitHub Actions` · `Postman` · `Agile (Scrum)` · `Swagger/OpenAPI`
 
 ---
@@ -43,9 +43,14 @@ I focus on writing **clean, secure, and scalable code**. I'm passionate about AP
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| [Cineo API — Microservices Spring Cloud](https://github.com/EstebanMM13/Cineo-api) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, Redis caching, Prometheus + Grafana observability, and CI/CD pipeline. | Java 17, Spring Boot, Spring Cloud, Docker, GitHub Actions, MySQL, Redis |
-| [Cineo Web — Angular Fronten](https://github.com/EstebanMM13/Cineo-web) | Angular 22 client for CineAPI — movie catalogue with real-time search, genre filtering, voting system, reviews, and admin panel. | Angular 22, TypeScript, RxJS, Tailwind CSS |
-| [Movies API — Monolith](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and full test coverage. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger, JUnit, Mockito |
+| [Cineo API — Microservices Spring Cloud](https://github.com/EstebanMM13/Cineo-api) | Production-ready microservices architecture with API Gateway, service discovery, centralized config, JWT auth, Redis
+caching, Prometheus + Grafana observability, and CI/CD pipeline. | Java 17, Spring Boot, Actions, MySQL, Redis |
+| [Cineo Web — Angular Frontend](https://github.com/EstebanMM13/Cineo-web) | Angular 22 client for CineAPI — movie catalogue with real-time search, genre filtering, voting system, reviews, and admin panel. |
+Angular 22, TypeScript, RxJS, Tailwind CSS |
+| [Food Log — Restaurant & dish tracker](https://github.com/EstebanMM13/food_log) | Local-first Flutter app to log restaurants and dishes: ratings, tags, reminders, a stats screen, JSON backup/restore,
+light/dark theme, and a GitHub Actions CI pipeline. | Flutter, Dart, Drift (SQLite), Riv
+| [Movies API — Monolith](https://github.com/EstebanMM13/Movies-API) | REST API with authentication, ratings, pagination, and full test coverage. | Java 17, Spring Boot, JWT, JPA/Hibernate, MySQL, Swagger,
+JUnit, Mockito |
 | [Proyecto Palomero](https://github.com/EstebanMM13/ProyectoPalomero) | Android messaging and microblogging app (Final Degree Project). | Firebase Auth, Firestore, MVVM, Repository Pattern, WeatherAPI |
 
 > 🔗 Click on the project titles to see the full repository.
@@ -55,7 +60,7 @@ I focus on writing **clean, secure, and scalable code**. I'm passionate about AP
 ## 📈 GitHub Stats
 
 ![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanMM13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMM13&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMM13&
 
 ---
 
